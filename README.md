@@ -13,4 +13,16 @@ A pretty straightforward tool that allows redirection from certain websites dire
    ```
     .\block_sites.ps1
    ```
+5. Close your navigator, open it and you're all set!
+
+## Current blocked domains
+
+- www.twoplayergames.org
+- www.crazygames.com
+- www.crazygames.fr
+- poki.com
+- www.poki.com
+- poki.com/fr
+- playhop.com
+- www.1001games.com
 
